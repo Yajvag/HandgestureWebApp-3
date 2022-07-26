@@ -1,0 +1,27 @@
+body
+{
+  color: rgb(216, 210, 210);
+  background: #002b8e;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed red;
+  width: 350px;
+  height: 300px; 
+}
+#result_name ,#result_name2  
+{
+  color: orange;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.gesture
+{
+  font-size:40px;
+}
